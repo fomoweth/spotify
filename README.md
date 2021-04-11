@@ -45,3 +45,6 @@
 - Deployed with Firebase Hosting.
 
 You can check the deployed application from <a href="https://spotify-frontend-8da85.web.app/" target="_blank">here</a>.
+
+![image alt text](https://github.com/own1t/spotify/blob/main/previews/spotify-clone.png)
+![link text](https://vimeo.com/535554796 "Spotify Clone Demo")
