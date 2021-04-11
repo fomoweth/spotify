@@ -46,4 +46,4 @@
 
 You can check the deployed application from <a href="https://spotify-frontend-8da85.web.app/" target="_blank">here</a>.
 
-Check out the Video Demo from <a href="https://vimeo.com/manage/videos/535554796">here</a>.
+Check out the Video Demo from <a href="https://vimeo.com/535554796">here</a>.
