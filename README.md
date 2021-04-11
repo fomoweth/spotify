@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+## Spotify-Clone: Home View
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![alt text](https://github.com/own1t/spotify/blob/main/previews/spotify-1-home.png)
 
-## Available Scripts
+## Spotify-Clone: Search View
 
-In the project directory, you can run:
+![alt text](https://github.com/own1t/spotify/blob/main/previews/spotify-2-search.png)
 
-### `yarn start`
+## Spotify-Clone: Search Result View
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![alt text](https://github.com/own1t/spotify/blob/main/previews/spotify-2-search-result.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Spotify-Clone: Collection(Library) View
 
-### `yarn test`
+![alt text](https://github.com/own1t/spotify/blob/main/previews/spotify-3-collection.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Spotify-Clone: Playlist View
 
-### `yarn build`
+![alt text](https://github.com/own1t/spotify/blob/main/previews/spotify-4-playlist.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Spotify-Clone: Album View
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![alt text](https://github.com/own1t/spotify/blob/main/previews/spotify-5-album.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Spotify-Clone: Artist View
 
-### `yarn eject`
+![alt text](https://github.com/own1t/spotify/blob/main/previews/spotify-6-artist.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Spotify-Clone: User Profile View
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![alt text](https://github.com/own1t/spotify/blob/main/previews/spotify-7-user-profile.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Spotify Clone Application
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Built with ReactJS, Redux, Firebase, & Spotify-Web-API
 
-## Learn More
+- Engineered Spotify Clone Client Side using ReactJS to facilitate the overall process of writing components and faster rendering.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Integrated Redux to manage states of application and keep changes in the application more predictable and traceable.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Configured Server Side with using Firebase Functions to retrieve all data including users, devices, playlists, songs and etc from Spotify Web API.
 
-### Code Splitting
+- Implemented fully featured music player working same as original Spotify Player including following artists and players, saving albums and tracks.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Deployed with Firebase Hosting.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+You can check the deployed application from <a href="https://spotify-frontend-8da85.web.app/" target="_blank">here</a>.
