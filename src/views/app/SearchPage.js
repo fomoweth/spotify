@@ -17,8 +17,8 @@ import { AccessTime } from "@material-ui/icons";
 import SongRow from "../../components/item-list/SongRow";
 import { GET_RECENT_ITEMS, GET_FOLLOWING_ARTISTS } from "../../states/appSlice";
 import LoadingContainer from "../base/LoadingContainer";
-import RecentItemsRow from "../../components/item-list/RecentItemsRow";
-import ArtistRow from "../../components/item-list/ArtistRow";
+import RecentItemsRow from "../../components/ItemList/RecentItemsRow";
+import ArtistRow from "../../components/ItemList/ArtistRow";
 
 import SpotifyWebApi from "spotify-web-api-js";
 import { client_id } from "../../utils/";

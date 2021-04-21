@@ -18,10 +18,10 @@ import {
   AlbumTitle,
   TrackTime,
   OptionHeader,
-} from "../../styles/SongRowStyles";
+} from "../SongRow/SongRowElements";
 import { AccessTime, FiberManualRecord } from "@material-ui/icons";
-import SongRow from "../../components/item-list/SongRow";
-import MiniPlayerAlbum from "../../components/player/MiniPlayerAlbum";
+import SongRow from "../ItemList/SongRow";
+import MiniPlayerAlbum from "../MiniPlayer/MiniPlayerAlbum";
 import LoadingContainer from "../../views/base/LoadingContainer";
 
 const spotify = new SpotifyWebApi(client_id);

@@ -1,7 +1,7 @@
 import React from "react";
 
 import styled from "styled-components";
-import ItemCard from "../../styles/ItemCard";
+import ItemCard from "../Cards/ItemCard";
 
 const NewReleaseRow = ({ items }) => {
   return (

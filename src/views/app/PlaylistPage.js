@@ -27,9 +27,9 @@ import {
   SongRowHeader,
 } from "../../styles/SongRowStyles";
 import { AccessTime, FiberManualRecord } from "@material-ui/icons";
-import SongRow from "../../components/item-list/SongRow";
+import SongRow from "../../components/ItemList/SongRow";
 
-import MiniPlayerPlaylist from "../../components/player/MiniPlayerPlaylist";
+import MiniPlayerPlaylist from "../../components/MiniPlayer/MiniPlayerPlaylist";
 import LoadingContainer from "../base/LoadingContainer";
 
 import SpotifyWebApi from "spotify-web-api-js";

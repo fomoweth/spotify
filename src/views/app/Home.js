@@ -8,10 +8,10 @@ import {
 
 import styled from "styled-components";
 
-import NewReleaseRow from "../../components/item-list/NewReleaseRow";
+import NewReleaseRow from "../../components/ItemList/NewReleaseRow";
 import LoadingContainer from "../base/LoadingContainer";
-import RecentItemsRow from "../../components/item-list/RecentItemsRow";
-import PlaylistRow from "../../components/item-list/Playlist";
+import RecentItemsRow from "../../components/ItemList/RecentItemsRow";
+import PlaylistRow from "../../components/ItemList/Playlist";
 import { MusicNote } from "@material-ui/icons";
 import { Link } from "react-router-dom";
 

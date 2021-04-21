@@ -5,15 +5,15 @@ import {
   GET_DEVICE_ID,
   SET_CURRENTLY_PLAYING,
   SET_PLAYING_STATE,
-} from "../states/appSlice";
+} from "../../states/appSlice";
 
 import { useHistory } from "react-router";
 
 import styled from "styled-components";
 
 import SpotifyWebApi from "spotify-web-api-js";
-import { client_id } from "../utils";
-import { truncate } from "../utils";
+import { client_id } from "../../utils";
+import { truncate } from "../../utils";
 
 const spotify = new SpotifyWebApi(client_id);
 

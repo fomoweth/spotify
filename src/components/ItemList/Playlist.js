@@ -4,7 +4,7 @@ import { useSelector } from "react-redux";
 import { GET_USER } from "../../states/appSlice";
 
 import styled from "styled-components";
-import LongItemCard from "../../styles/LongItemCard";
+import LongItemCard from "../Cards/LongItemCard";
 
 const PlaylistRow = ({ items }) => {
   const user = useSelector(GET_USER);

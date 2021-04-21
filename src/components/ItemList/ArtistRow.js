@@ -1,7 +1,7 @@
 import React from "react";
 
 import styled from "styled-components";
-import ArtistCard from "../../styles/ArtistCard";
+import ArtistCard from "../Cards/ArtistCard";
 
 const ArtistRow = ({ items }) => {
   return (

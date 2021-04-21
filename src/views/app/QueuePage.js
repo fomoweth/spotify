@@ -29,10 +29,10 @@ import {
   Option,
   SongRowWrapper,
   SongRowRightTail,
-} from "../../styles/SongRowStyles";
-import SongRow from "../../components/item-list/SongRow";
+} from "../../components/SongRow/SongRowElements";
+import SongRow from "../../components/ItemList/SongRow";
 import LoadingContainer from "../base/LoadingContainer";
-import MenuDropdown from "../../styles/MenuDropdown";
+import MenuDropdown from "../../components/MenuDropdown/MenuDropdown";
 
 import { Favorite, FavoriteBorder, SlowMotionVideo } from "@material-ui/icons";
 

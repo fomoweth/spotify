@@ -11,10 +11,10 @@ import {
 import { useHistory } from "react-router";
 
 import styled from "styled-components";
-import PlaylistRow from "../../components/item-list/Playlist";
-import ArtistRow from "../../components/item-list/ArtistRow";
-import SavedAlbumRow from "../../components/item-list/SavedAlbumRow";
-import LibraryCard from "../../styles/LibraryCard";
+import PlaylistRow from "../../components/ItemList/Playlist";
+import ArtistRow from "../../components/ItemList/ArtistRow";
+import SavedAlbumRow from "../../components/ItemList/SavedAlbumRow";
+import LibraryCard from "../../components/Cards/LibraryCard";
 import LoadingContainer from "../base/LoadingContainer";
 
 const LibraryPage = () => {

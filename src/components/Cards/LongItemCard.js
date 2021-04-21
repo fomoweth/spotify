@@ -4,7 +4,7 @@ import { useHistory } from "react-router";
 
 import styled from "styled-components";
 
-import { truncate } from "../utils";
+import { truncate } from "../../utils";
 
 const LongItemCard = ({ id, imgUrl, playlistName }) => {
   const history = useHistory();

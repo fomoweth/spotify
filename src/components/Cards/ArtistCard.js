@@ -4,7 +4,7 @@ import { useHistory } from "react-router";
 
 import styled from "styled-components";
 
-import { truncate, capitalize } from "../utils";
+import { truncate, capitalize } from "../../utils";
 
 const ArtistCard = ({ id, imgUrl, artistName, artistType }) => {
   const history = useHistory();

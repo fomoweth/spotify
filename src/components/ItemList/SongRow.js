@@ -27,7 +27,7 @@ import {
   Option,
   SongRowWrapper,
   SongRowRightTail,
-} from "../../styles/SongRowStyles";
+} from "../SongRow/SongRowElements";
 import { Favorite, FavoriteBorder, SlowMotionVideo } from "@material-ui/icons";
 
 import MenuDropdown from "../../styles/MenuDropdown";

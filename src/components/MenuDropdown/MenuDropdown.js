@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { useHistory } from "react-router";
 
 import SpotifyWebApi from "spotify-web-api-js";
-import { client_id } from "../utils/";
+import { client_id } from "../../utils";
 
 import IconButton from "@material-ui/core/IconButton";
 import Menu from "@material-ui/core/Menu";

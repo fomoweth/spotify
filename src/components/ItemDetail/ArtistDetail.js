@@ -20,14 +20,14 @@ import {
   TrackInfo,
   AlbumTitle,
   TrackTime,
-} from "../../styles/SongRowStyles";
+} from "../SongRow/SongRowElements";
 import { AccessTime, Favorite, FavoriteBorder } from "@material-ui/icons";
 
 import { capitalize } from "../../utils";
 
 import LoadingContainer from "../../views/base/LoadingContainer";
-import AlbumRow from "../item-list/AlbumRow";
-import SongRow from "../item-list/SongRow";
+import AlbumRow from "../ItemList/AlbumRow";
+import SongRow from "../ItemList/SongRow";
 
 const spotify = new SpotifyWebApi();
 

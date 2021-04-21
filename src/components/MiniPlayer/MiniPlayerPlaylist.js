@@ -13,20 +13,20 @@ import {
 } from "../../states/appSlice";
 
 import SpotifyWebApi from "spotify-web-api-js";
-import { client_id } from "../../utils/";
+import { client_id } from "../../utils";
 
 import {
   MiniPlayerContainer,
   MiniPlayerLeft,
   MiniPlayerRight,
-} from "../../styles/MiniPlayerStyles";
+} from "./MiniPlayerElements";
 import {
   PauseCircleOutline,
   PlayCircleOutline,
   Favorite,
   FavoriteBorder,
 } from "@material-ui/icons";
-import MenuDropdown from "../../styles/MenuDropdown";
+import MenuDropdown from "../MenuDropdown/MenuDropdown";
 
 const spotify = new SpotifyWebApi(client_id);
 
