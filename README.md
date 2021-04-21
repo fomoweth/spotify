@@ -36,14 +36,14 @@
 
 - Engineered Spotify Clone Client Side using ReactJS to facilitate the overall process of writing components and faster rendering.
 
+- Configured Server Side with using Firebase Functions to retrieve all data including users, devices, playlists, songs and more from Spotify Web API.
+
 - Integrated Redux to manage states of application and keep changes in the application more predictable and traceable.
 
-- Configured Server Side with using Firebase Functions to retrieve all data including users, devices, playlists, songs and etc from Spotify Web API.
-
-- Implemented fully featured music player working same as original Spotify Player including following artists and players, saving albums and tracks.
+- Implemented fully featured music player including following artists and playlists, saving albums and tracks.
 
 - Deployed with Firebase Hosting.
 
 You can check the deployed application from <a href="https://spotify-frontend-8da85.web.app/" target="_blank">here</a>.
 
-Check out the Video Demo from <a href="https://vimeo.com/manage/videos/535554796">here</a>.
+Check out the Video Demo from <a href="https://vimeo.com/535554796">here</a>.
